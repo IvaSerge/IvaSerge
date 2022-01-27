@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IvaSerge
+- 👀 I’m interested in Revit and Electrical design
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python scripting
+- 📫 How to reach me ivaserge__ukr.net
